@@ -1,6 +1,6 @@
 # 🌳 bonsai.nvim
 
-A dark Neovim colorscheme with a teal/forest aesthetic, derived from the [Árvore](https://github.com/your-user/arvore-theme) palette.
+A dark Neovim colorscheme with a teal/forest aesthetic, derived from the [Árvore](https://github.com/arvoreeducacao/arvore-theme) palette.
 
 <img width="2513" height="1336" alt="image" src="https://github.com/user-attachments/assets/2dc1458a-42f3-4f16-b059-92e07860d2e8" />
 
@@ -15,7 +15,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-  "your-user/bonsai.nvim",
+  "ricardoraposo/bonsai.nvim",
   lazy = false,
   priority = 1000,
   opts = {},
